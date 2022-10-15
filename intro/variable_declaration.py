@@ -6,7 +6,7 @@ print("__________________________Assign Value___________________________________
 
 x = 1                       # x is an integer
 print(type(x))
-x = 2                       # x is an integer by Amlan
+x = 2                       # x is an integer by Amlanb
 print(type(x))
 x = 'hello'                 # now x is a string
 print(type(x))
