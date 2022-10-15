@@ -6,6 +6,8 @@ print("__________________________Assign Value___________________________________
 
 x = 1                       # x is an integer
 print(type(x))
+x = 2                       # x is an integer by Amlan
+print(type(x))
 x = 'hello'                 # now x is a string
 print(type(x))
 x = [1, 2, 3]               # now x is a list
